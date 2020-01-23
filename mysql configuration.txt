@@ -1,0 +1,35 @@
+create a user in mysql whose id is "root", whose password is "mxd123".
+
+create a new database named "zqf", use this database and enter the following code:
+
+
+create table register(
+UserID varchar(10) Primary key,
+Password varchar(10)
+);
+
+
+create table track(
+title varchar(10),
+artist varchar(10),
+album varchar(10),
+genre varchar(10),
+playlist varchar(10),
+public  ENUM('N','Y')
+);
+
+
+
+create table playlist_score(
+playlist varchar(10),
+nickname varchar(10),
+scoring_person varchar(10),
+score int,
+primary key(playlist,scoring_person)
+);
+
+create table list(
+playlist varchar(10),
+nickname varchar(10),
+primary key(playlist,nickname)
+);
