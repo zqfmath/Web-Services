@@ -1,0 +1,6 @@
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\bin\WebService5.dll
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\bin\WebService5.pdb
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\bin\MySql.Data.dll
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\obj\Debug\WebService5.csprojResolveAssemblyReference.cache
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\obj\Debug\WebService5.dll
+C:\Users\Zqf\Documents\Visual Studio 2010\Projects\WebService5\WebService5\obj\Debug\WebService5.pdb

@@ -1,0 +1,40 @@
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\bin\Debug\client.exe.config
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\bin\Debug\client.exe
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\bin\Debug\client.pdb
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.exe
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.pdb
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\bin\Debug\client.exe.manifest
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\bin\Debug\client.application
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.exe.manifest
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.application
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Zqf\documents\visual studio 2010\Projects\client\client\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+D:\Web Services\client\client\bin\Debug\client.exe.config
+D:\Web Services\client\client\obj\x86\Debug\client.exe
+D:\Web Services\client\client\obj\x86\Debug\client.pdb
+D:\Web Services\client\client\bin\Debug\client.exe.manifest
+D:\Web Services\client\client\bin\Debug\client.application
+D:\Web Services\client\client\bin\Debug\client.exe
+D:\Web Services\client\client\bin\Debug\client.pdb
+D:\Web Services\client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Web Services\client\client\obj\x86\Debug\client.csproj.GenerateResource.Cache
+D:\Web Services\client\client\obj\x86\Debug\client.exe.manifest
+D:\Web Services\client\client\obj\x86\Debug\client.application
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Rankings.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Playlist_Specialist.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Mark.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.MyMarks.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Add_Playlist.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Add_Track.resources
+D:\Web Services\client\client\obj\x86\Debug\WindowsFormsApplication1.Update.resources

@@ -1,0 +1,6 @@
+D:\Web Services\server\WebService5\bin\WebService5.dll
+D:\Web Services\server\WebService5\bin\WebService5.pdb
+D:\Web Services\server\WebService5\bin\MySql.Data.dll
+D:\Web Services\server\WebService5\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\Web Services\server\WebService5\obj\Debug\WebService5.dll
+D:\Web Services\server\WebService5\obj\Debug\WebService5.pdb
